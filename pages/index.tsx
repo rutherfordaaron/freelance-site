@@ -31,7 +31,7 @@ const Home = () => {
             <div className="max-w-[900px] mx-auto px-9">
               {/* Text block 2 */}
               <div className="flex justify-center pt-10">
-                <p className="text-center text-lg md:text-3xl md:w-auto lg:pt-5">I pour on the skills and creativity to increase your web presence. With design and development services, get a website that really stands out.</p>
+                <p className="text-center text-lg md:text-3xl md:w-auto lg:pt-5">We pour on the skills and creativity to increase your web presence. With design and development services, get a website that really stands out.</p>
               </div>
 
               {/* Action button */}
@@ -47,28 +47,28 @@ const Home = () => {
           <div className="md:grid grid-cols-2 md:gap-8 max-w-[1000px] mx-auto md:px-5">
             <Service
               src="/service icons/design.svg"
-              text="Not sure how you want it to look yet? I’ll help you find the perfect design."
+              text="Not sure how you want it to look yet? We’ll help you find the perfect design."
               className=""
               alt=""
             />
 
             <Service
               src="/service icons/development.svg"
-              text="Already have an image in your  head? I’ll help you make that image a reality."
+              text="Already have an image in your  head? We’ll help you make that image a reality."
               className="flex-row-reverse"
               alt=""
             />
 
             <Service
               src="/service icons/management.svg"
-              text="Have an existing site? I’ll help you update it, or add content."
+              text="Have an existing site? We’ll help you update it, or add content."
               className=""
               alt=""
             />
 
             <Service
               src="/service icons/fullstack.svg"
-              text="Need something more complex? I can leverage APIs and databases to make your site shine!"
+              text="Need something more complex? We can leverage APIs and databases to make your site shine!"
               className="flex-row-reverse"
               alt=""
             />
